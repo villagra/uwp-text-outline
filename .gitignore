@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UwpTextOutline/obj
+/UwpTextOutline/bin/x86/Debug
+/.vs/UwpTextOutline/v16
